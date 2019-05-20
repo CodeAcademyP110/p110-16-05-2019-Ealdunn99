@@ -1,0 +1,7 @@
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\bin\Debug\work1.exe.config
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\bin\Debug\work1.exe
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\bin\Debug\work1.pdb
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\obj\Debug\work1.csprojAssemblyReference.cache
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\obj\Debug\work1.exe
+C:\Users\ealdu\Documents\MEGA\C#\16may\home\homework\work1\obj\Debug\work1.pdb
